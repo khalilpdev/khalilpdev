@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on C# SAP Business One Add-on Development...
-- 🌱 I’m currently learning -> flutter...
+- 🌱 I’m currently learning -> .NEt MAUI and dotnet 7 news
 
 <div>
   <a href="https://github.com/khalilpdev">
