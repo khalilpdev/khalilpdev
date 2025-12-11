@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C# SAP Business One Add-on Development...
-- 🌱 I’m currently learning -> .NEt MAUI and dotnet 8 news
+- 🔭 I’m currently working on C# SAP Business One Add-on Development
+- 🌱 Full-stack .NET Developer | C# SAP Busines One Developer | ASP.NET Core | Blazor | .NET MAUI
 
 <div>
   <a href="https://github.com/khalilpdev">
