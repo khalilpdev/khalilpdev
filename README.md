@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on C# SAP Business One Add-on Development
 - 🌱 Full-stack .NET Developer | C# SAP Busines One Developer | ASP.NET Core | Blazor | .NET MAUI
+- https://www.linkedin.com/in/leandrokhalil/
 
 <div>
   <a href="https://github.com/khalilpdev">
