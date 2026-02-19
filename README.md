@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C# SAP Business One Add-on Development
+- 🔭 I’m currently working as a partner and developer at a SaaS platform
+- 🔭 I’m currently working on Freelancer projetcts to C# SAP Business One Add-on Development
 - 🌱 Full-stack .NET Developer | C# SAP Busines One Developer | ASP.NET Core | Blazor | .NET MAUI
 - https://www.linkedin.com/in/leandrokhalil/
 
