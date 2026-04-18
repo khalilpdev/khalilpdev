@@ -1,19 +1,18 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a partner and developer at a SaaS platform
-- 🔭 I’m currently working on Freelancer projetcts to C# SAP Business One Add-on Development
-- 🌱 Full-stack .NET Developer | C# SAP Busines One Developer | ASP.NET Core | Blazor | .NET MAUI
-- https://www.linkedin.com/in/leandrokhalil/
+- 🔭 I’m currently working on freelance projects on C# SAP Business One Add-on Development
+- 🌱 Full-stack .NET Developer | C# SAP Business One Developer | ASP.NET Core | Blazor | .NET MAUI
+- [LinkedIn](https://www.linkedin.com/in/leandrokhalil/)
 
 <div>
   <a href="https://github.com/khalilpdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilpdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpdev&layout=compact&langs_count=9&theme=dracula"&include_all_commits=true/>
-    
-    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpdev&amp;layout=compact&amp;langs_count=9&amp;theme=dracula&amp;include_all_commits=true"/>
+  </a>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block"><br>
     <img align="center" alt="khalilpdev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="khalilpdev-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="khalilpdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
