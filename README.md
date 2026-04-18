@@ -1,33 +1,45 @@
-### Hi there 👋
+# Leandro Khalil
 
-- 🔭 I’m currently working as a partner and developer at a SaaS platform
-- 🔭 I’m currently working on freelance projects on C# SAP Business One Add-on Development
-- 🌱 Full-stack .NET Developer | C# SAP Business One Developer | ASP.NET Core | Blazor | .NET MAUI
-- [LinkedIn](https://www.linkedin.com/in/leandrokhalil/)
+## Profile
 
-<div>
-  <a href="https://github.com/khalilpdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilpdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpdev&amp;layout=compact&amp;langs_count=9&amp;theme=dracula&amp;include_all_commits=true"/>
-  </a>
-</div>
+Hi, I'm Leandro Khalil, a software developer specialized in creating robust applications using C#, .NET, Blazor, MAUI, SignalR, Redis, and PostgreSQL.
 
-  <div style="display: inline-block"><br>
-    <img align="center" alt="khalilpdev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="khalilpdev-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="khalilpdev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="khalilpdev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="khalilpdev-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
-  
-<div>
-    <a href="https://www.youtube.com/channel/UC4wUeYzoOd0pV9WxjgzlvQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:khalilpdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/leandrokhalil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
- ![Snake animation](https://github.com/khalilpdev/khalilpdev/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
- 
+With extensive experience in developing scalable web and mobile applications, I am passionate about leveraging technologies to deliver high-quality software solutions. I work diligently to implement best practices in software engineering and contribute to both individual and team projects.
+
+### Skills
+- **C#**: Strong knowledge and experience in building applications.
+- **.NET**: Proficient in using the .NET framework for application development.
+- **Blazor**: Experienced in developing interactive web UIs using Blazor.
+- **MAUI**: Skilled in creating cross-platform applications with .NET MAUI.
+- **SignalR**: Knowledgeable in real-time web functionality using SignalR.
+- **Redis**: Competent in using Redis for caching and data storage solutions.
+- **PostgreSQL**: Experienced in designing and managing PostgreSQL databases.
+
+## Contact
+- **LinkedIn**: [Leandro Khalil](https://www.linkedin.com/in/leandrokhalil/)
+- **Email**: khalilpdev@gmail.com  
+
+"Empowering the digital world with quality software!" 
+
+--- 
+
+## Perfil
+
+Olá, eu sou Leandro Khalil, um desenvolvedor de software especializado em criar aplicações robustas usando C#, .NET, Blazor, MAUI, SignalR, Redis e PostgreSQL.
+
+Com ampla experiência no desenvolvimento de aplicações web e móveis escaláveis, sou apaixonado por aproveitar as tecnologias para fornecer soluções de software de alta qualidade. Trabalho diligentemente para implementar as melhores práticas em engenharia de software e contribuir tanto para projetos individuais quanto em equipe.
+
+### Habilidades
+- **C#**: Sólido conhecimento e experiência em construção de aplicações.
+- **.NET**: Proficiente em usar a framework .NET para desenvolvimento de aplicações.
+- **Blazor**: Experiência em desenvolver interfaces web interativas usando Blazor.
+- **MAUI**: Habilidoso em criar aplicações multiplataforma com .NET MAUI.
+- **SignalR**: Conhecimento em funcionalidades web em tempo real usando SignalR.
+- **Redis**: Competente no uso do Redis para soluções de cache e armazenamento de dados.
+- **PostgreSQL**: Experiência em projetar e gerenciar bancos de dados PostgreSQL.
+
+## Contato
+- **LinkedIn**: [Leandro Khalil](https://www.linkedin.com/in/leandrokhalil/)
+- **Email**: khalilpdev@gmail.com  
+
+"Empoderando o mundo digital com software de qualidade!" 
