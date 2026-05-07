@@ -14,6 +14,7 @@ With extensive experience in developing scalable web and mobile applications, I 
 - **SignalR**: Knowledgeable in real-time web functionality using SignalR.
 - **Redis**: Competent in using Redis for caching and data storage solutions.
 - **PostgreSQL**: Experienced in designing and managing PostgreSQL databases.
+- **ERP & Fiscal/Accounting**: Extensive experience as a developer for the market-leading add-on for SAP Business One, working with SQL Server and SAP HANA. Deep knowledge of fiscal and accounting processes.
 
 ## Contact
 - **LinkedIn**: [Leandro Khalil](https://www.linkedin.com/in/leandrokhalil/)
@@ -34,9 +35,10 @@ Com ampla experiência no desenvolvimento de aplicações web e móveis escaláv
 - **.NET**: Proficiente em usar a framework .NET para desenvolvimento de aplicações.
 - **Blazor**: Experiência em desenvolver interfaces web interativas usando Blazor.
 - **MAUI**: Habilidoso em criar aplicações multiplataforma com .NET MAUI.
-- **SignalR**: Conhecimento em funcionalidades web em tempo real usando SignalR.
+- **SignalR**: Conhecimento em funcionalidades web em tempo tempo real usando SignalR.
 - **Redis**: Competente no uso do Redis para soluções de cache e armazenamento de dados.
 - **PostgreSQL**: Experiência em projetar e gerenciar bancos de dados PostgreSQL.
+- **ERP & Fiscal/Contábil**: Ampla experiência como desenvolvedor no maior produto do mercado para SAP Business One, atuando com SQL Server e SAP HANA. Sólido conhecimento em processos fiscais e contábeis.
 
 ## Contato
 - **LinkedIn**: [Leandro Khalil](https://www.linkedin.com/in/leandrokhalil/)
