@@ -2,7 +2,7 @@
 
 ## Profile
 
-Hi, I'm Leandro Khalil, a software developer specialized in creating robust applications using C#, .NET, Blazor, MAUI, SignalR, Redis, and PostgreSQL.
+Hi, I'm Leandro Khalil, a software developer specialized in creating robust applications using C#, .NET, Blazor, MAUI, SignalR, Redis, MSSQL Server, SAP HANA and PostgreSQL.
 
 With extensive experience in developing scalable web and mobile applications, I am passionate about leveraging technologies to deliver high-quality software solutions. I work diligently to implement best practices in software engineering and contribute to both individual and team projects.
 
