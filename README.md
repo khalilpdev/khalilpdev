@@ -14,8 +14,8 @@ With extensive experience in developing scalable web and mobile applications, I 
 - **SignalR**: Knowledgeable in real-time web functionality using SignalR.
 - **Redis**: Competent in using Redis for caching and data storage solutions.
 - **PostgreSQL**: Experienced in designing and managing PostgreSQL databases.
-- **MSSQL Server**: Experienced in designing, optimizing, and maintaining Microsoft SQL Server solutions, including T-SQL, stored procedures, and SQL Agent jobs.
-- **SAP HANA**: Experienced in designing, optimizing, and maintaining SAP HANA solutions.
+- **MSSQL Server**: Strong experience with Microsoft SQL Server, including T-SQL development, stored procedures, SQL Agent jobs, performance tuning, and database maintenance.
+- **SAP HANA**: Solid experience with SAP HANA in enterprise development, optimization, maintenance, and SAP Business One environments.
 - **ERP & Fiscal/Accounting**: Extensive experience as a developer for the market-leading add-on for SAP Business One, working with SQL Server and SAP HANA. Deep knowledge of fiscal and accounting[...]
 
 ## Contact
@@ -40,8 +40,8 @@ Com ampla experiência no desenvolvimento de aplicações web e móveis escaláv
 - **SignalR**: Conhecimento em funcionalidades web em tempo tempo real usando SignalR.
 - **Redis**: Competente no uso do Redis para soluções de cache e armazenamento de dados.
 - **PostgreSQL**: Experiência em projetar e gerenciar bancos de dados PostgreSQL.
-- **MSSQL Server**: Experiência em projetar, otimizar e manter soluções Microsoft SQL Server, incluindo T-SQL, stored procedures e jobs do SQL Agent.
-- **SAP HANA**: Experiência em projetar, otimizar e manter soluções SAP HANA.
+- **MSSQL Server**: Forte experiência com Microsoft SQL Server, incluindo desenvolvimento em T-SQL, stored procedures, SQL Agent jobs, tuning de performance e manutenção de bancos de dados.
+- **SAP HANA**: Experiência sólida com SAP HANA em desenvolvimento corporativo, otimização, manutenção e ambientes SAP Business One.
 - **ERP & Fiscal/Contábil**: Ampla experiência como desenvolvedor no maior produto do mercado para SAP Business One, atuando com SQL Server e SAP HANA. Sólido conhecimento em processos fiscais [...]
 
 ## Contato
